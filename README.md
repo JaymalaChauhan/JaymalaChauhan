@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaymalaChauhan
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me - jaymala.chauhan@gmail.com
